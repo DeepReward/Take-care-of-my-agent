@@ -15,7 +15,7 @@
 |시간| 제목  |  발표자  |
 |---|---|---|
 |   | 행사 & [딥리워드](https://www.facebook.com/groups/DeepReward/) 소개  | 김무성  |
-|   | [The rise of Reinforcement learning]  | 정원석  |   
+|   | [The rise of Reinforcement learning](#the-rise-of-reinforcement-learning)  | 정원석  |   
 |   | [Distributed prioritized experience replay 구현](#distributed-prioritized-experience-replay-구현)  | 김정주  |    
 
 
