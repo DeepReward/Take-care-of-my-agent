@@ -19,6 +19,8 @@
 |   | [Distributed prioritized experience replay 구현](#distributed-prioritized-experience-replay-구현)  | 김정주  |  
 |   | [자연어처리와 강화학습](#자연어처리와-강화학습)  | 김영삼  |
 |   | [보안 영역에서의 강화학습 적용](#보안-영역에서의-강화학습-적용)  | 정성훈  |
+|   | [계산뇌과학적 관점에서의 강화학습 소개](#계산뇌과학적-관점에서의-강화학습-소개)  | 정성훈  |
+
 
 
 
