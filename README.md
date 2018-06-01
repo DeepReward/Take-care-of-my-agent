@@ -16,7 +16,9 @@
 |---|---|---|
 |   | 행사 & [딥리워드](https://www.facebook.com/groups/DeepReward/) 소개  | 김무성  |
 |   | [The rise of Reinforcement learning](#the-rise-of-reinforcement-learning)  | 정원석  |   
-|   | [Distributed prioritized experience replay 구현](#distributed-prioritized-experience-replay-구현)  | 김정주  |    
+|   | [Distributed prioritized experience replay 구현](#distributed-prioritized-experience-replay-구현)  | 김정주  |  
+|   | [자연어처리와 강화학습](#자연어처리와-강화학습)  | 김영삼  |
+|   | [보안 영역에서의 강화학습 적용](#보안-영역에서의-강화학습-적용)  | 정성훈  |
 
 
 
@@ -33,4 +35,14 @@ Rainbow 혹은 pg 알고리즘 등을 적용해보면서 문제를 풀며 겪었
 
 * 발표자 : 김정주
 * 자료 : 
+* 요약 : 
+
+#### 자연어처리와 강화학습
+* 발표자 : 김영삼
+* 자료 : 
+* 요약 : 
+
+#### 보안 영역에서의 강화학습 적용
+* 발표자 : 정성훈
+* 자료 :
 * 요약 : 
