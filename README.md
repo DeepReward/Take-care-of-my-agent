@@ -15,11 +15,22 @@
 |시간| 제목  |  발표자  |
 |---|---|---|
 |   | 행사 & [딥리워드](https://www.facebook.com/groups/DeepReward/) 소개  | 김무성  |
-|   | (미정)  | 정원석  |   
+|   | [The rise of Reinforcement learning]  | 정원석  |   
 |   | [Distributed prioritized experience replay 구현](#distributed-prioritized-experience-replay-구현)  | 김정주  |    
 
 
 
 ### 내용
 
+#### The rise of Reinforcement learning
+
+* 발표자 : 정원석 
+* 자료 : 
+* 요약 : 마리오 소닉 유니티 환경에서의 강화학습 적용 사례. 
+Rainbow 혹은 pg 알고리즘 등을 적용해보면서 문제를 풀며 겪었던 에피소드, 해결법 등을 공유.
+
 #### Distributed prioritized experience replay 구현
+
+* 발표자 : 김정주
+* 자료 : 
+* 요약 : 
