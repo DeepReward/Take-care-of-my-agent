@@ -24,7 +24,7 @@
 |   | [생물정보학에서의 강화학습 적용 사례](#생물정보학에서의-강화학습-적용-사례)  | 박혜진  |
 |   | [밑바닥부터 하는 강화학습 환경구축 도전이야기](#밑바닥부터-하는-강화학습-환경구축-도전이야기)  | 김준태  |
 |   | [텐서플로우 기반 강화학습 프레임워크 : TensorForce 소개](#텐서플로우-기반-강화학습-프레임워크--tensorforce-소개)| 최완재 |
-|   | [후회를 최소화하는 의사결정: Multi-Armed Bandit & Bayesian Optimization](#밑바닥부터-하는-강화학습-환경구축-도전이야기)  | 윤상웅  |
+|   | [후회를 최소화하는 의사결정: Multi-Armed Bandit & Bayesian Optimization](#후회를-최소화하는-의사결정-multi-armed-bandit--bayesian-optimization)  | 윤상웅  |
 
 
 ### 내용
