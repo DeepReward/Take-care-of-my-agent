@@ -13,6 +13,8 @@
 
 ## 시간표
 
+<a href="https://www.facebook.com/groups/DeepReward/" onclick="ga('send', 'event', 'Oubtound Link', 'DeepReward Facebook');">딥리워드</a>
+
 |시간| 제목  |  발표자  |
 |---|---|---|
 | 1:00 - 1:10 | 행사 & [딥리워드](https://www.facebook.com/groups/DeepReward/) 소개  | 김무성  |
