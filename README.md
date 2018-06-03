@@ -1,6 +1,6 @@
 # 에이전트를 부탁해 2018
 
-강화학습 미니 컨퍼런스 & 네트워킹 ([페이스북 이벤트 링크](https://www.facebook.com/events/634722176861383/))
+강화학습 미니 컨퍼런스 & 네트워킹 (<a href="https://www.facebook.com/events/634722176861383/" onclick="ga('send', 'event', 'OutLink', 'Facebook Event - 에이전트를 부탁해 2018');">페이스북 이벤트 링크</a>])
 
 ```
 날짜 : 2018.7/28 (토)
