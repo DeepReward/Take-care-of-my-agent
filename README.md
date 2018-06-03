@@ -19,7 +19,7 @@
 | 1:00 - 1:10 | 행사 & <a href="https://www.facebook.com/groups/DeepReward/" onclick="ga('send', 'event', 'OutLink', 'DeepReward Facebook');">딥리워드</a> 소개  | 김무성  |
 ||<center>세션 : #1</center>||
 |   | <a href="https://deepreward.github.io/Take-care-of-my-agent/#tensorforce--텐서플로우-기반-강화학습-프레임워크-소개" onclick="ga('send', 'event', 'InLink', 'TensorForce : 텐서플로우 기반 강화학습 프레임워크 소개');">TensorForce : <br>텐서플로우 기반 강화학습 프레임워크 소개</a> | 최완재 |
-|   | [The rise of Reinforcement learning](#the-rise-of-reinforcement-learning)  | 정원석  |
+|   | <a href="https://deepreward.github.io/Take-care-of-my-agent/#the-rise-of-reinforcement-learning" onclick="ga('send', 'event', 'InLink', 'The rise of Reinforcement learning');">The rise of Reinforcement learning</a>  | 정원석  |
 |   | [밑바닥부터 하는 강화학습 환경구축 도전이야기](#밑바닥부터-하는-강화학습-환경구축-도전이야기)  | 김준태  |
 ||<center>세션 : #2</center>||
 |   | [계산뇌과학적 관점에서의 강화학습 소개](#계산뇌과학적-관점에서의-강화학습-소개)  | 정혜원  |
