@@ -13,10 +13,10 @@
 
 ## 시간표
 
-<a href="https://www.facebook.com/groups/DeepReward/" onclick="ga('send', 'event', 'Out Link', 'DeepReward Facebook');">딥리워드</a>
+<a href="https://www.facebook.com/groups/DeepReward/" onclick="ga('send', 'event', 'OutLink', 'DeepReward Facebook');">딥리워드</a>
 
 
-<a href="https://deepreward.github.io/Take-care-of-my-agent/#tensorforce--텐서플로우-기반-강화학습-프레임워크-소개" onclick="ga('send', 'event', 'In Link', 'TensorForce : 텐서플로우 기반 강화학습 프레임워크 소개');">TensorForce : <br>텐서플로우 기반 강화학습 프레임워크 소개</a>
+<a href="https://deepreward.github.io/Take-care-of-my-agent/#tensorforce--텐서플로우-기반-강화학습-프레임워크-소개" onclick="ga('send', 'pageview', 'TensorForce : 텐서플로우 기반 강화학습 프레임워크 소개');">TensorForce : <br>텐서플로우 기반 강화학습 프레임워크 소개</a>
 
 |시간| 제목  |  발표자  |
 |---|---|---|
