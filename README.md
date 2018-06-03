@@ -20,16 +20,16 @@
 ||<center>세션 : #1</center>||
 |   | <a href="https://deepreward.github.io/Take-care-of-my-agent/#tensorforce--텐서플로우-기반-강화학습-프레임워크-소개" onclick="ga('send', 'event', 'InLink', 'TensorForce : 텐서플로우 기반 강화학습 프레임워크 소개');">TensorForce : <br>텐서플로우 기반 강화학습 프레임워크 소개</a> | 최완재 |
 |   | <a href="https://deepreward.github.io/Take-care-of-my-agent/#the-rise-of-reinforcement-learning" onclick="ga('send', 'event', 'InLink', 'The rise of Reinforcement learning');">The rise of Reinforcement learning</a>  | 정원석  |
-|   | [밑바닥부터 하는 강화학습 환경구축 도전이야기](#밑바닥부터-하는-강화학습-환경구축-도전이야기)  | 김준태  |
+|   | <a href="https://deepreward.github.io/Take-care-of-my-agent/#밑바닥부터-하는-강화학습-환경구축-도전이야기" onclick="ga('send', 'event', 'InLink', '밑바닥부터 하는 강화학습 환경구축 도전이야기');"> 밑바닥부터 하는 강화학습 환경구축 도전이야기</a> | 김준태  |
 ||<center>세션 : #2</center>||
-|   | [계산뇌과학적 관점에서의 강화학습 소개](#계산뇌과학적-관점에서의-강화학습-소개)  | 정혜원  |
-|   | [후회를 최소화하는 의사결정: <br>Multi-Armed Bandit & Bayesian Optimization](#후회를-최소화하는-의사결정-multi-armed-bandit--bayesian-optimization)  | 윤상웅  |
-|   | [Distributed prioritized experience replay 구현](#distributed-prioritized-experience-replay-구현)  | 김정주  |  
+|   | <a href="https://deepreward.github.io/Take-care-of-my-agent/#계산뇌과학적-관점에서의-강화학습-소개" onclick="ga('send', 'event', 'InLink', '계산뇌과학적 관점에서의 강화학습 소개');">계산뇌과학적 관점에서의 강화학습 소개</a> | 정혜원  |
+|   | <a href="https://deepreward.github.io/Take-care-of-my-agent/#후회를-최소화하는-의사결정-multi-armed-bandit--bayesian-optimization" onclick="ga('send', 'event', 'InLink', '후회를 최소화하는 의사결정: Multi-Armed Bandit & Bayesian Optimization');">후회를 최소화하는 의사결정: <br>Multi-Armed Bandit & Bayesian Optimization</a>| 윤상웅  |
+|   | <a href="https://deepreward.github.io/Take-care-of-my-agent/#distributed-prioritized-experience-replay-구현" onclick="ga('send', 'event', 'InLink', 'Distributed prioritized experience replay 구현');">Distributed prioritized experience replay 구현</a> | 김정주  |  
 ||<center>세션 : #3</center>||
-|   | [생물정보학에서의 강화학습 적용 사례](#생물정보학에서의-강화학습-적용-사례)  | 박혜진  |
-|   | [자연어처리와 강화학습 1](#자연어처리와-강화학습-1)  | 김영삼  |
-|   | [자연어처리와 강화학습 2](#자연어처리와-강화학습-2)  | 오영택  |
-|   | [보안 영역에서의 강화학습 적용](#보안-영역에서의-강화학습-적용)  | 정성훈  |
+|   | <a href="https://deepreward.github.io/Take-care-of-my-agent/#생물정보학에서의-강화학습-적용-사례" onclick="ga('send', 'event', 'InLink', '생물정보학에서의 강화학습 적용 사례');">생물정보학에서의 강화학습 적용 사례</a> | 박혜진  |
+|   | <a href="https://deepreward.github.io/Take-care-of-my-agent/#자연어처리와-강화학습-1" onclick="ga('send', 'event', 'InLink', '자연어처리와 강화학습 1');">자연어처리와 강화학습 1</a>| 김영삼  |
+|   | <a href="https://deepreward.github.io/Take-care-of-my-agent/#자연어처리와-강화학습-2" onclick="ga('send', 'event', 'InLink', '자연어처리와 강화학습 2');">자연어처리와 강화학습 2</a>| 오영택  |
+|   | <a href="https://deepreward.github.io/Take-care-of-my-agent/#보안-영역에서의-강화학습-적용" onclick="ga('send', 'event', 'InLink', '보안 영역에서의 강화학습 적용');">보안 영역에서의 강화학습 적용</a>| 정성훈  |
    
 
 ## 내용
