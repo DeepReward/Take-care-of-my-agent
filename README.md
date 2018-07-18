@@ -1,5 +1,7 @@
 # 에이전트를 부탁해 2018
 
+<img src="https://deepreward.github.io/Take-care-of-my-agent/img/logo.jpg">
+
 <a href="https://www.facebook.com/groups/DeepReward/" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'DeepReward Facebook');">딥리워드</a>의 강화학습 미니 컨퍼런스 & 네트워킹<br><br>
 <b>참가 신청</b> -> 
 <a href="https://www.facebook.com/events/634722176861383/" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'Facebook Event - Take care of my agent 2018');">페이스북 이벤트 링크</a>의 이벤트에서 '참석'을 눌러주세요.<br>
