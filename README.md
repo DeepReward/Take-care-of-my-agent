@@ -43,7 +43,6 @@
 |   | <a href="https://deepreward.github.io/Take-care-of-my-agent/#생물정보학에서의-강화학습-적용-사례" onclick="ga('send', 'event', 'InLink', 'Title Click', '생물정보학에서의 강화학습 적용 사례');">생물정보학에서의 강화학습 적용 사례</a> | 박혜진  |
 |   | <a href="https://deepreward.github.io/Take-care-of-my-agent/#자연어처리와-강화학습-1" onclick="ga('send', 'event', 'InLink', 'Title Click', '자연어처리와 강화학습 1');">자연어처리와 강화학습 1</a>| 김영삼  |
 |   | <a href="https://deepreward.github.io/Take-care-of-my-agent/#강화학습을-이용한-mrc에서의-sentence-selection" onclick="ga('send', 'event', 'InLink', 'Title Click', '강화학습을 이용한 MRC에서의 Sentence Selection');">강화학습을 이용한 MRC에서의 Sentence Selection | 오영택  |
-|   | <a href="https://deepreward.github.io/Take-care-of-my-agent/#보안-영역에서의-강화학습-적용" onclick="ga('send', 'event', 'InLink', 'Title Click', '보안 영역에서의 강화학습 적용');">보안 영역에서의 강화학습 적용</a>| 정성훈  |
    
 
 ## 내용
@@ -111,10 +110,7 @@ Rainbow 혹은 pg 알고리즘 등을 적용해보면서 문제를 풀며 겪었
 * 자료 : 
 * 요약 : 
 
-#### 보안 영역에서의 강화학습 적용
-* 발표자 : 정성훈
-* 자료 :
-* 요약 : 
+
 
 
 
