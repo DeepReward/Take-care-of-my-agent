@@ -118,10 +118,7 @@
 #### 강화학습을 이용한 MRC에서의 Sentence Selection
 * 발표자 : 오영택
 * 자료 : 
-* 요약 : 
-
-
-
+* 요약 : 자연어 처리의 응용 분야인MRC(Machine Reading Comprehension) 분야를 소개하며 Task 소개 및 간략한 모델 소개와 강화학습을 적용한 개선점들을 소개합니다.
 
 
 
