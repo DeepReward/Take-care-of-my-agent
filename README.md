@@ -71,11 +71,12 @@
 >> 4. Imitation Learning
 >> 5. Curriculum Learning
 
-#### Distributed prioritized experience replay 구현
 
-* 발표자 : 김정주
-* 자료 : 
-* 요약 : 강화학습으로 더 복잡한 문제를 풀기 위해 다양한 방법들이 연구되고 있습니다. 이 발표에서는 분산 강화학습 논문(Distributed prioritized experience replay)의 재구현을 통해 더 빠르고, 우수한 성능의 에이전트를 만드는 방법을 살펴봅니다.
+#### 후회를 최소화하는 의사결정: Multi-Armed Bandit & Bayesian Optimization
+* 발표자 : 윤상웅
+* 자료 :
+* 요약 : 
+
 
 #### 자연어처리와 강화학습
 * 발표자 : 김영삼
@@ -114,10 +115,11 @@
 * 요약 : 스타크래프트2로 강화학습을 하기 위해 설치부터 가장 기본적인 MoveToBeacon환경에서의 학습을 소개합니다.
 
 
-#### 후회를 최소화하는 의사결정: Multi-Armed Bandit & Bayesian Optimization
-* 발표자 : 윤상웅
-* 자료 :
-* 요약 : 
+#### Distributed prioritized experience replay 구현
+
+* 발표자 : 김정주
+* 자료 : 
+* 요약 : 강화학습으로 더 복잡한 문제를 풀기 위해 다양한 방법들이 연구되고 있습니다. 이 발표에서는 분산 강화학습 논문(Distributed prioritized experience replay)의 재구현을 통해 더 빠르고, 우수한 성능의 에이전트를 만드는 방법을 살펴봅니다.
 
 #### RL for Bioinformatics: GYM-lattice
 * 발표자 : 박혜진
