@@ -33,12 +33,12 @@
 | 1:10 - 1:30  | <a href="https://deepreward.github.io/Take-care-of-my-agent/#the-rise-of-reinforcement-learning" onclick="ga('send', 'event', 'InLink', 'Title Click', 'The rise of Reinforcement learning');">The rise of Reinforcement learning</a>  | 정원석  |
 | 1:30 - 1:50  | <a href="https://deepreward.github.io/Take-care-of-my-agent/#distributed-prioritized-experience-replay-구현" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Distributed prioritized experience replay 구현');">Distributed prioritized experience replay 구현</a> | 김정주  |
 | 1:50 - 2:10  | <a href="https://deepreward.github.io/Take-care-of-my-agent/#자연어처리와-강화학습" onclick="ga('send', 'event', 'InLink', 'Title Click', '자연어처리와 강화학습');">자연어처리와 강화학습</a>| 김영삼  |
-|| 쉬는 시간 : 10분 ||
+|10분| 휴식 ||
 ||<center>세션 : #2</center>||
 | 2:20 - 2:40  | <a href="https://deepreward.github.io/Take-care-of-my-agent/#밑바닥부터-하는-강화학습-환경구축-도전이야기" onclick="ga('send', 'event', 'InLink', 'Title Click', '밑바닥부터 하는 강화학습 환경구축 도전이야기');"> 밑바닥부터 하는 강화학습 환경구축 도전이야기</a> | 김준태  |
 | 2:40 - 3:00  | <a href="https://deepreward.github.io/Take-care-of-my-agent/#tensorforce--텐서플로우-기반-강화학습-프레임워크-소개" onclick="ga('send', 'event', 'InLink', 'Title Click', 'TensorForce : 텐서플로우 기반 강화학습 프레임워크 소개');">TensorForce : <br>텐서플로우 기반 강화학습 프레임워크 소개</a> | 최완재 |
 | 3:00 - 3:20  | <a href="https://deepreward.github.io/Take-care-of-my-agent/#introduction-to-machine-reading-comprehension" onclick="ga('send', 'event', 'InLink', 'Title Click', '강화학습을 이용한 MRC에서의 Sentence Selection');">Introduction to Machine Reading Comprehension (Feat. Reinforcement Learning) | 오영택  |
-|| 쉬는 시간 : 20분 ||
+|20분| 휴식 & 네트워킹 ||
 ||<center>세션 : #3</center>||
 | 3:40 - 4:00  | <a href="https://deepreward.github.io/Take-care-of-my-agent/#스타크래프트2로-강화학습하기" onclick="ga('send', 'event', 'InLink', 'Title Click', '스타크래프트2로-강화학습하기');">스타크래프트2로 강화학습하기</a> | 차금강  |
 | 4:00 - 4:20  | <a href="https://deepreward.github.io/Take-care-of-my-agent/#후회를-최소화하는-의사결정-multi-armed-bandit--bayesian-optimization" onclick="ga('send', 'event', 'InLink', 'Title Click', '후회를 최소화하는 의사결정: Multi-Armed Bandit & Bayesian Optimization');">후회를 최소화하는 의사결정: <br>Multi-Armed Bandit & Bayesian Optimization</a>| 윤상웅  |
