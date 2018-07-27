@@ -50,11 +50,6 @@
 
 ### 세션 #1
 
-#### TensorForce : 텐서플로우 기반 강화학습 프레임워크 소개
-* 발표자 : 최완재
-* 자료 :
-* 요약 : 
-
 #### The rise of Reinforcement learning
 
 * 발표자 : 정원석 
@@ -76,15 +71,42 @@
 >> 4. Imitation Learning
 >> 5. Curriculum Learning
 
+#### Distributed prioritized experience replay 구현
+
+* 발표자 : 김정주
+* 자료 : 
+* 요약 : 강화학습으로 더 복잡한 문제를 풀기 위해 다양한 방법들이 연구되고 있습니다. 이 발표에서는 분산 강화학습 논문(Distributed prioritized experience replay)의 재구현을 통해 더 빠르고, 우수한 성능의 에이전트를 만드는 방법을 살펴봅니다.
+
+#### 자연어처리와 강화학습
+* 발표자 : 김영삼
+* 자료 : 
+* 요약 : 
+
+----------
+
+### 세션 #2
 
 #### 밑바닥부터 하는 강화학습 환경구축 도전이야기
 * 발표자 : 김준태
 * 자료 :
 * 요약 : GTA 강화학습 환경 구축
 
+
+#### TensorForce : 텐서플로우 기반 강화학습 프레임워크 소개
+* 발표자 : 최완재
+* 자료 :
+* 요약 : 
+
+
+#### Introduction to Machine Reading Comprehension
+* 발표자 : 오영택
+* 자료 : 
+* 요약 : 자연어 처리의 응용 분야인MRC(Machine Reading Comprehension) 분야를 소개하며 Task 소개 및 간략한 모델 소개와 강화학습을 적용한 개선점들을 소개합니다.
+
+
 ----------
 
-### 세션 #2
+### 세션 #3
 
 #### 스타크래프트2로 강화학습하기
 * 발표자 : 차금강
@@ -97,30 +119,13 @@
 * 자료 :
 * 요약 : 
 
-#### Distributed prioritized experience replay 구현
-
-* 발표자 : 김정주
-* 자료 : 
-* 요약 : 강화학습으로 더 복잡한 문제를 풀기 위해 다양한 방법들이 연구되고 있습니다. 이 발표에서는 분산 강화학습 논문(Distributed prioritized experience replay)의 재구현을 통해 더 빠르고, 우수한 성능의 에이전트를 만드는 방법을 살펴봅니다.
-
-----------
-
-### 세션 #3
-
 #### RL for Bioinformatics: GYM-lattice
 * 발표자 : 박혜진
 * 자료 : 
 * 요약 : 생물정보학의 난제 중 하나인 단백질 접힘 문제에 강화학습을 적용하여 생물 정보의 해석에 강화학습의 유용성을 살펴 보았다.
 
-#### 자연어처리와 강화학습
-* 발표자 : 김영삼
-* 자료 : 
-* 요약 : 
 
-#### Introduction to Machine Reading Comprehension
-* 발표자 : 오영택
-* 자료 : 
-* 요약 : 자연어 처리의 응용 분야인MRC(Machine Reading Comprehension) 분야를 소개하며 Task 소개 및 간략한 모델 소개와 강화학습을 적용한 개선점들을 소개합니다.
+
 
 
 
