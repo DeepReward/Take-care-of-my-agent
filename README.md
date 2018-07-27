@@ -31,7 +31,7 @@
 | 1:00 - 1:10 | 행사 & <a href="https://www.facebook.com/groups/DeepReward/" onclick="ga('send', 'event', 'OutLink', 'DeepReward Facebook');">딥리워드</a> 소개  | 김무성  |
 ||<center>세션 : #1</center>||
 | 1:10 - 1:30  | <a href="https://deepreward.github.io/Take-care-of-my-agent/#the-rise-of-reinforcement-learning" onclick="ga('send', 'event', 'InLink', 'Title Click', 'The rise of Reinforcement learning');">The rise of Reinforcement learning</a>  | 정원석  |
-| 1:30 - 1:50  | <a href="https://deepreward.github.io/Take-care-of-my-agent/#distributed-prioritized-experience-replay-구현" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Distributed prioritized experience replay 구현');">Distributed prioritized experience replay 구현</a> | 김정주  |
+| 1:30 - 1:50  | <a href="https://deepreward.github.io/Take-care-of-my-agent/#후회를-최소화하는-의사결정-multi-armed-bandit--bayesian-optimization" onclick="ga('send', 'event', 'InLink', 'Title Click', '후회를 최소화하는 의사결정: Multi-Armed Bandit & Bayesian Optimization');">후회를 최소화하는 의사결정: <br>Multi-Armed Bandit & Bayesian Optimization</a>| 윤상웅  |
 | 1:50 - 2:10  | <a href="https://deepreward.github.io/Take-care-of-my-agent/#자연어처리와-강화학습" onclick="ga('send', 'event', 'InLink', 'Title Click', '자연어처리와 강화학습');">자연어처리와 강화학습</a>| 김영삼  |
 |10분| 휴식 ||
 ||<center>세션 : #2</center>||
@@ -41,7 +41,7 @@
 |20분| 휴식 & 네트워킹 ||
 ||<center>세션 : #3</center>||
 | 3:40 - 4:00  | <a href="https://deepreward.github.io/Take-care-of-my-agent/#스타크래프트2로-강화학습하기" onclick="ga('send', 'event', 'InLink', 'Title Click', '스타크래프트2로-강화학습하기');">스타크래프트2로 강화학습하기</a> | 차금강  |
-| 4:00 - 4:20  | <a href="https://deepreward.github.io/Take-care-of-my-agent/#후회를-최소화하는-의사결정-multi-armed-bandit--bayesian-optimization" onclick="ga('send', 'event', 'InLink', 'Title Click', '후회를 최소화하는 의사결정: Multi-Armed Bandit & Bayesian Optimization');">후회를 최소화하는 의사결정: <br>Multi-Armed Bandit & Bayesian Optimization</a>| 윤상웅  |
+| 4:00 - 4:20  | <a href="https://deepreward.github.io/Take-care-of-my-agent/#distributed-prioritized-experience-replay-구현" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Distributed prioritized experience replay 구현');">Distributed prioritized experience replay 구현</a> | 김정주  |
 | 4:20 - 4:40   | <a href="https://deepreward.github.io/Take-care-of-my-agent/#rl-for-bioinformatics-gym-lattice" onclick="ga('send', 'event', 'InLink', 'Title Click', '생물정보학에서의 강화학습 적용 사례');">RL for Bioinformatics: GYM-lattice</a> | 박혜진  |
 
    
