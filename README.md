@@ -3,12 +3,13 @@
 <img src="https://deepreward.github.io/Take-care-of-my-agent/img/logo.png" >
 
 <a href="https://www.facebook.com/groups/DeepReward/" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'DeepReward Facebook');">딥리워드</a>의 강화학습 미니 컨퍼런스 & 네트워킹<br><br>
-<b>참가 신청</b> -> https://festa.io/events/284
-<a href="https://festa.io/events/284" onclick="ga('send', 'event', 'OutLink', 'Festa Click', 'Festa Event - Take care of my agent 2019');">참가 신청 링크</a> (반드시 여기서 신청해주세요)
+
+<b>참가 신청</b> -> 
+<a href="https://festa.io/events/284" onclick="ga('send', 'event', 'OutLink', 'Festa Click', 'Festa Event - Take care of my agent 2019');">참가 신청 링크</a> (반드시 여기서 신청해주세요) <br>
 <b>이벤트 링크</b> ->
-<a href="https://www.facebook.com/events/2382612218692313/" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'Facebook Event - Take care of my agent 2019');">페이스북 이벤트 링크</a>
+<a href="https://www.facebook.com/events/2382612218692313/" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'Facebook Event - Take care of my agent 2019');">페이스북 이벤트 링크</a> <br>
 <b>문의 사항</b> ->
-<a href="https://www.facebook.com/thepsybus/" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'Psybus Facebook');">싸이버스 페이지</a>에서 메시지를 보내세요.
+<a href="https://www.facebook.com/thepsybus/" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'Psybus Facebook');">싸이버스 페이지</a>에서 메시지를 보내세요. <br>
 
 ```
 날짜 : 2019.5/11 (토)
